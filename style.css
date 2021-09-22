@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "Proxima Soft";
+    src: url("/font/proximasoft/ProximaSoft-Bold.woff");
+} 
+/* @import url("/font/proximasoft/stylesheet.css");
+
+.body {
+  font-family: "Proxima Soft", Arial, Helvetica, sans-serif !important;
+} */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+body{
+   font-family: 'Roboto', sans-serif;
+} */
+
+body{
+    font-family: "Proxima Soft", sans-serif;
+    position: relative;
+}
+
+.hero{
+    margin-top: 140px;
+}
+h1{
+    color: #ff6776;
+    font-size: 3rem;
+    margin-bottom: 25px;
+    /* margin: 40px 0; */
+}
+
+.nev-font{
+
+    color: rgb(41, 50, 65);
+    margin-bottom: 40px;
+}
+
+.what{
+    margin-bottom: 35px;
+    align-items: center;
+}
+
+.what h1{
+    font-size: 4rem;
+}
+
+.add-border{
+    border-bottom: 1px solid black;
+    align-items: center;
+}
+
+.exit-details{
+    margin-bottom: 120px;
+}
+
+.fc{
+    color: #ff6776;
+}
+
+.single-letter{
+    font-size: 4em;
+    width: 75%;
+}
+/* section{
+    margin: 25px 0;
+} */
+
+.exit-button{
+    position: fixed;
+    top: 140px;
+    right: 0px;
+    width: 40px;
+}
+
+#why, #what, #who, #results, #credits{
+    margin: 70px 0;
+}
+
+.youth-img{
+    margin: 70px 0;
+}
+
+
+.nav-link{
+    /* margin: 0 10px 0 10px; */
+    border-right: 1px solid white;
+    font-size: 25px;
+    padding: 0 20px !important;
+    /* align-items: center; */
+}
+.footer{
+    background-color: #ff6776;
+    color:#fff;
+    margin-top: 70px;
+}
